@@ -18,10 +18,15 @@ h6 {
   overflow: auto;
 }
 
+.courses-entry,
 .education-entry,
 .work-entry,
 .project-entry {
   padding: 0 5%;
+}
+
+.courses-entry {
+  margin-bottom: 20px;
 }
 
 h1 {
